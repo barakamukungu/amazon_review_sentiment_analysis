@@ -38,6 +38,7 @@ These insights highlight common customer complaints that businesses could addres
 ## Files
 amazon_analysis.ipynb → main analysis notebook  
 amazon.csv → dataset
+
 ![Sentiment Chart](sentiment_scores.png)
 ![Negative Word Frequency Chart](word_frequency.png)
 
